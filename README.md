@@ -13,7 +13,7 @@
 
 1. Install the Tampermonkey add-on on your browser. _[Chrome, Edge](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)_
 
-2. Open [this link](https://github.com/Volrod01/pochoir/raw/main/pochoir.js) and press the "Install" button to add the script to Tampermonkey.
+2. Open [this link](https://github.com/Volrod01/pochoir/raw/main/pochoir.user.js) and press the "Install" button to add the script to Tampermonkey.
 
 ## Usage
 
